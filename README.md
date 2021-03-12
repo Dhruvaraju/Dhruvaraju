@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hi 👋, I'm Dhruva</h1>
-<h3 align="center">developer from India</h3>
+<h3 align="center">I am a developer from India, interested in building microservices, apis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvaraju&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvaraju" /> </p>
 
