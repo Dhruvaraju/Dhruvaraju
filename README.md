@@ -1,14 +1,18 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
+<h1 align="center">Hi 👋, I'm Dhruva</h1>
 <h3 align="center">developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvaraju&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvaraju" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvaraju" alt="dhruvaraju" /></a> </p>
+- 🔭 I’m currently working on [Web-Components (Stencil)](https://github.com/Dhruvaraju/web-components)
 
 - 🌱 I’m currently learning **Tensorflow**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Dhruvaraju?tab=repositories](https://github.com/Dhruvaraju?tab=repositories)
+
 - 💬 Ask me about **Microservices, Angular**
+
+- 📫 How to reach me **49dhruva@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,6 +21,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvaraju&show_icons=true&locale=en&layout=compact" alt="dhruvaraju" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvaraju&show_icons=true&locale=en" alt="dhruvaraju" /></p>
+
+
 
 <!--
 **Dhruvaraju/Dhruvaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
