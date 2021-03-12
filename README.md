@@ -22,7 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvaraju&show_icons=true&locale=en&layout=compact" alt="dhruvaraju" /></p>
 </div>
 
-<div>
+<div style="width:100%; margin-top:20px:">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvaraju&show_icons=true&locale=en" alt="dhruvaraju" /></p>
 </div>
 
