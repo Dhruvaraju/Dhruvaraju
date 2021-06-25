@@ -25,7 +25,7 @@
 
   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvaraju&show_icons=true&locale=en" alt="dhruvaraju" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvaraju&show_icons=true&locale=en&theme=merko" alt="dhruvaraju" />
 
 
 
