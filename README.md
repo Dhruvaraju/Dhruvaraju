@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Dhruva</h1>
-<h3 align="center">A developer from India, interested in building microservices, apis.</h3>
+<h3 align="center">I am a developer from India, interested in building microservices, apis.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvaraju&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvaraju" /> </p>
 <img align="right" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/Developer.gif" alt="developer image" />
 
@@ -24,6 +24,7 @@
 ![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
