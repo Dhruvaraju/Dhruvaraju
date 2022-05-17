@@ -33,7 +33,7 @@
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dhruvaraju&show_icons=true&locale=en&theme=default" alt="dhruvaraju" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvaraju&show_icons=true&locale=en&layout=default" alt="dhruvaraju" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvaraju&show_icons=true&locale=en&layout=compact" alt="dhruvaraju" /> 
 </div>
 
 <!--
