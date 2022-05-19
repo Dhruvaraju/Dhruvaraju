@@ -67,8 +67,7 @@ const dhruva = {
 </td>
 </tr>
 </table>
-
-
+<img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/working.svg" alt="developer image" />
 </div>
 
 <!--
