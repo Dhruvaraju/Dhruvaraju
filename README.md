@@ -57,9 +57,18 @@ const dhruva = {
 </td></tr>
 </table>
   
-<div>
+<table>
+<tr>
+<td>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dhruvaraju&show_icons=true&locale=en&theme=default" alt="dhruvaraju" />
+</td>
+<td>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvaraju&show_icons=true&locale=en&layout=compact" alt="dhruvaraju" /> 
+</td>
+</tr>
+</table>
+
+
 </div>
 
 <!--
