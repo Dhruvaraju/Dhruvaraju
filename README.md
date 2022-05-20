@@ -69,7 +69,7 @@ const dhruva = {
 </table>
 <img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/working.svg" alt="developer image" />
 </div>
-
+<p align="right"><sup>Images from https://www.freepik.com/</sup></p>
 <!--
 **Dhruvaraju/Dhruvaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Join My Discord Channel using the following link: https://discord.gg/U2FQpPrTr8
