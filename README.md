@@ -22,7 +22,6 @@ const dhruva = {
         agile: ["scrum", "xp"]
     },
   architecture: ["microservices"],
- challenge: "I am doing the #100DaysOfCode challenge focused on python",
  funFact: "Inner peace comes, when you close the 200 tabs at the end of your coding session"
 }
 ```
