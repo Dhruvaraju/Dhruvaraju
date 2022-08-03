@@ -70,6 +70,7 @@ const dhruva = {
 </div>
 <p align="right"><sup>Images from https://www.freepik.com/</sup></p>
 <!--
+Create a TODO app
 **Dhruvaraju/Dhruvaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Join My Discord Channel using the following link: https://discord.gg/U2FQpPrTr8
 Here are some ideas to get you started:
