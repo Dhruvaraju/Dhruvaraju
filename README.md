@@ -5,7 +5,6 @@
 
 ```javascript
 const dhruva = {
-  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin],
   askMeAbout: ["web dev", "api", "app dev"],
   technologies: {
