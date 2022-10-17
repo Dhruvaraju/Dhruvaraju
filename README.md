@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Dhruva</h1>
 <h3 align="center">I am a developer from India, interested in building microservices, apis.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvaraju&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvaraju" /> </p>
-<img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/programmer.svg" alt="developer image" />
+<!--<img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/programmer.svg" alt="developer image" />-->
 
 ```javascript
 const dhruva = {
@@ -65,9 +65,9 @@ const dhruva = {
 </td>
 </tr>
 </table>
-<img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/working.svg" alt="developer image" />
+<!--<img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/working.svg" alt="developer image" />-->
 </div>
-<p align="right"><sup>Images from https://www.freepik.com/</sup></p>
+<!--<p align="right"><sup>Images from https://www.freepik.com/</sup></p>-->
 <!--
 Create a TODO app
 **Dhruvaraju/Dhruvaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
