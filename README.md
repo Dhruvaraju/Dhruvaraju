@@ -65,7 +65,7 @@ const dhruva = {
 </td>
 </tr>
 </table>
-<!--<img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/working.svg" alt="developer image" />-->
+<img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/working.svg" alt="developer image" />
 </div>
 <!--<p align="right"><sup>Images from https://www.freepik.com/</sup></p>-->
 <!--
