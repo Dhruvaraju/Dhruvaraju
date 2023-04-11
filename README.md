@@ -1,7 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Dhruva</h1>
 <h3 align="center">I am a developer from India, interested in building microservices, apis.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvaraju&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvaraju" /> </p>
-<img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/programmer.svg" alt="developer image" />
+<img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/background-001.jpg" alt="developer image" />
+<!--img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/programmer.svg" alt="developer image" /-->
 
 ```javascript
 const dhruva = {
