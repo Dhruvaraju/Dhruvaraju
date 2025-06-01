@@ -17,7 +17,7 @@ const dhruva = {
         frontEnd: {
             web: ["Angular"]
         },
-        devOps: ["azure", "Heroku", "github-actions", "gcp"],
+        devOps: ["azure", "github-actions", "gcp"],
         databases: ["mongo", "postgres"],
         misc: ["Firebase"],
         containers: ["docker", "podman", "kubernetes", "helm"],
