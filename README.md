@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Dhruva</h1>
-<h3 align="center">I am a developer from India, interested in building microservices, apis.</h3>
+<h3 align="center">I am a Architect from India, interested in building microservices, apis.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvaraju&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvaraju" /> </p>
 <img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/background-001.jpg" alt="developer image" />
 <!--img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/programmer.svg" alt="developer image" /-->
@@ -10,15 +10,17 @@ const dhruva = {
   askMeAbout: ["web dev", "api", "app dev"],
   technologies: {
         backEnd: {
+            python: ["flask"],
             js: ["Node", "Express"],
             jvm: ["kotlin", "java", "springboot"]
         },
         frontEnd: {
             web: ["Angular"]
         },
-        devOps: ["azure", "Heroku", "github-actions"],
+        devOps: ["azure", "Heroku", "github-actions", "gcp"],
         databases: ["mongo", "postgres"],
         misc: ["Firebase"],
+        containers: ["docker", "podman", "kubernetes", "helm"],
         agile: ["scrum", "xp"]
     },
   architecture: ["microservices"],
@@ -31,7 +33,7 @@ const dhruva = {
 <td valign="top" width="50%">
   
 - 🔭 I’m currently working on _Java, Angular and Python_.
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **ML Ops**
 - 👯 I would love to collaborate on any **app development and open source projects**
 - 📫 You can reach me on [discord](https://discord.gg/D2y3ETbR79)
 - 👨‍💻 All of my projects are available at [dhruvaraju](https://github.com/Dhruvaraju?tab=repositories)
@@ -40,19 +42,13 @@ const dhruva = {
 <td valign="top" width="50%">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/49dhruva">
-  <img align="left" alt="Dhruva Raju | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/D2y3ETbR79">
-  <img align="left" alt="clarke-allen's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+  <a href="https://twitter.com/49dhruva">On X</a> </br>
+<a href="https://discord.gg/D2y3ETbR79">Discord</a>
 <a href="https://dev.to/dhruvaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dhruvaraju" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,kotlin,graphql,spring,angular,typescript,nodejs,express,git,py)](https://skills.thijs.gg)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  Java, Python, Typescript, Springboot, Flask
 </td></tr>
 </table>
   
